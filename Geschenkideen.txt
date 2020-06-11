@@ -1,4 +1,5 @@
 Velo
 Navi
 Macbook
-
+Auto
+Segelschiff
